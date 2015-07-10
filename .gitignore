@@ -1,0 +1,7 @@
+*.o
+withImpl1
+withImpl2
+withoutImpl
+#*
+*#
+*~
